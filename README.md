@@ -25,7 +25,7 @@
 
 ### GitHub Stats:
 
-![Top Langs](https://github-readme-stats-kappa-swart.vercel.app/api/top-langs/?username=Kleb-0&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-kappa-swart.vercel.app/api/top-langs/?username=CalebeHilles-0&layout=compact&theme=radical)
 
 ### Projects I’m working on:
 - **Sineum** - a Blog with its own API built with Golang
