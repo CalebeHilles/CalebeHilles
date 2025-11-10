@@ -1,6 +1,6 @@
 #  Hello, i am ***Calebe***,
 
- I'm 15 years old, software developer. Now focused on frontend with **Next.js** and **TailwindCSS**, i'm also interested in Backend with **Golang**.
+ I'm 15 years old, software developer. Now focused on frontend with **Next.js** and **TailwindCSS** and in Backend with **Golang**.
 
 ---
 
@@ -25,7 +25,7 @@
 
 ### GitHub Stats:
 
-![Top Langs](https://github-readme-stats-kappa-swart.vercel.app/api/top-langs/?username=CalebeHilles-0&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-kappa-swart.vercel.app/api/top-langs/?username=CalebeHilles&layout=compact&theme=radical)
 
 ### Projects I’m working on:
 - **Sineum** - a Blog with its own API built with Golang
