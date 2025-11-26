@@ -17,7 +17,6 @@
 - Golang
 - PostgreSQL and Databases interactions
 - System architecture
-- How to live 
 
 ---
 
