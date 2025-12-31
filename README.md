@@ -15,6 +15,7 @@
 
 ### Currently Learning:
 - Golang
+- Typescript
 - PostgreSQL and Databases interactions
 - System architecture
 
