@@ -33,4 +33,4 @@
 ---
 
 ### Wanna talk with me?
-[Portfolio](https://calebe.vercel.app) • [LinkedIn](https://www.linkedin.com/in/calebe-hillesheim-lamb-5a86792a5/) • [Email](mailto:calebehillesheimlamb@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/calebe-hillesheim-lamb-5a86792a5/) • [Email](mailto:calebehillesheimlamb@gmail.com)
