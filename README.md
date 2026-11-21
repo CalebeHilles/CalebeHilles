@@ -23,12 +23,12 @@ Currently working at **Pieta.tech**, developing internal tools, test automation 
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 🚀 Projects
+### Projects
 
 - **[WiFi QR Code Generator](https://github.com/CalebeHilles/qrcode-generator)** — Wi-Fi sharing through QR codes, built with React and TypeScript.
 - **Sineum** — Full-stack blogging platform built with Next.js and Go.
 - **MineCLI** — C# command-line tool for managing Minecraft-related files.
 
-### 📫 Connect
+### Connect
 
 [LinkedIn](https://www.linkedin.com/in/calebe-hillesheim-lamb-5a86792a5/) · [Email](mailto:calebehillesheimlamb@gmail.com)
