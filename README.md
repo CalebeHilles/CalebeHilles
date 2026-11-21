@@ -1,4 +1,4 @@
-# Hey, I'm Calebe 👋
+# Hey, I'm Calebe
 
 **Software Developer | Go & TypeScript**
 
@@ -6,13 +6,13 @@ I build developer tools, automation solutions, and web applications, with a focu
 
 Currently working at **Pieta.tech**, developing internal tools, test automation infrastructure, and AI-powered engineering workflows.
 
-### ⚡ What I'm into
+### What I'm into
 - **Backend & tooling:** Go, TypeScript, APIs, and developer tools
 - **Automation & AI:** Playwright, CI/CD, and multi-agent systems
 - **Web development:** React, Next.js, and modern web technologies
 - **Exploring:** Systems architecture, performance, infrastructure, and industrial software
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
